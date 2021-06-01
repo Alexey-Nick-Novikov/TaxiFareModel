@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anovikov/code/Alexey-Nick-Novikov/TaxiFareModel/mlruns/1/400d517b4a2948438fddc8cdd222a07b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 400d517b4a2948438fddc8cdd222a07b
+run_uuid: 400d517b4a2948438fddc8cdd222a07b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622555902354
+status: 1
+tags: []
+user_id: unknown
